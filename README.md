@@ -1,0 +1,2 @@
+# tornado_sync_log_demo
+一个关于tornado异步情况下日志混乱的解决方案
